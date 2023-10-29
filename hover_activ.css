@@ -1,0 +1,59 @@
+  .header .logo:hover {
+      transform: scale(1.1);
+
+
+  }
+
+  .header .search:hover {
+      transform: scale(1.1);
+      cursor: pointer;
+  }
+
+  .backet:hover {
+      transform: scale(1.1);
+  }
+
+
+  .profile:hover {
+      transform: scale(1.1);
+  }
+
+  .header .header_menu:hover {
+      transform: scale(1.1);
+      cursor: pointer;
+  }
+
+
+
+
+  .cart__content_btn:hover {
+      color: #f16d7f;
+  }
+
+
+  .cart__content_bt:hover {
+      color: #f16d7f;
+
+
+  }
+
+  .sub_btn:hover {
+
+
+      color: #080114;
+
+  }
+
+
+  .contacts__icon:hover {
+
+
+      color: #f16d7f;
+  }
+
+
+  .social__icons:hover {
+
+
+      color: purple;
+  }
